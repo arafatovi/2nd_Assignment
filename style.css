@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Logo {
+    width: 40%;
+    background-color: brown;
+    text-align: center;
+    float: left;
+    height: 50px;
+}
+
+.Menu {
+    width: 60%;
+    background-color: rgb(206, 34, 191);
+    float: left;
+    text-align: center;
+    height: 50px;
+}
+
+.bar {
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.left_content {
+    width: 20%;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    float: left;
+}
+
+.middle_content {
+    width: 60%;
+    height: 400px;
+    float: left;
+    text-align: center;
+    background-color: rgb(243, 20, 20);
+}
+
+.right_content {
+    width: 20%;
+    height: 400px;
+    float: left;
+    text-align: center;
+    background-color: rgb(23, 230, 16);
+}
+
+.top {
+    height: 30%;
+    background-color: rgb(49, 13, 255);
+}
+
+.center {
+    height: 40%;
+    background-color: saddlebrown;
+}
+
+.bottom {
+    height: 30%;
+    background-color: wheat;
+}
+
+.center_left {
+    width: 50%;
+    height: 100%;
+    background-color: tomato;
+    float: left;
+}
+
+.center_right {
+    width: 50%;
+    height: 100%;
+    background-color: indigo;
+    float: right;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: olive;
+    height: 70px;
+}
